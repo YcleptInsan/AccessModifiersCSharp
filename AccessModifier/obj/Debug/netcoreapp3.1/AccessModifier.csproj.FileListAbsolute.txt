@@ -1,0 +1,13 @@
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.deps.json
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.runtimeconfig.json
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.runtimeconfig.dev.json
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.dll
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/bin/Debug/netcoreapp3.1/AccessModifier.pdb
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.csprojAssemblyReference.cache
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.csproj.CoreCompileInputs.cache
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.dll
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.pdb
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.genruntimeconfig.cache
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.AssemblyInfoInputs.cache
+/home/yclept/Clones/AccessModifiersCSharp/AccessModifier/obj/Debug/netcoreapp3.1/AccessModifier.AssemblyInfo.cs

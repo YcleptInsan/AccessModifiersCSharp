@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/yclept/.dotnet/store/|arch|/|tfm|",
+      "/home/yclept/.nuget/packages"
+    ]
+  }
+}
